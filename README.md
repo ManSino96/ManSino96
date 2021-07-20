@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @ManSino96
 - 👀 I’m interested in Software Development and Engineering, and Software Security.
 - 🌱 I’m currently learning DevOps and Cloud Computing (AWS)
-- 💞️ I’m looking to collaborate on Web Security Software
+- 💞️ I’m looking to collaborate on Web Security Software (Occupy a junior position)
+- 🌱Learning ReactsJS
+- 🌱 Dabling on Microservices
+- 🌱 Reading on GraphQL
 - 📫 How to reach me : mazisino@icloud.com
 
 <!---
