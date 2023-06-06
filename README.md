@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManSino96
 - 👀 I’m interested in Software Development and Engineering, and Software Security.
 - 🌱 I’m currently learning DevOps and Cloud Computing (AWS)
-- 💞️ I work as a Junior Java Developer
+- 💞️ I work as a Java Developer
 - 💞️ I hope to become a Software Architect in the future, well that's what I'm labouring for.
 - 🌱Learning ReactsJS
 - 🌱 Dabling on Microservices
