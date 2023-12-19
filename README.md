@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ManSino96
+- 👋 Hi, I’m @ManSino96 [Sinokubonga "Sino" Mazibuko]
 - 👀 I’m interested in Software Development and Engineering, and Software Security.
 - 🌱 I’m currently learning DevOps and Cloud Computing (AWS)
 - 💞️ I work as a Java Developer
-- 💞️ I hope to become a Software Architect in the future, well that's what I'm labouring for.
-- 🌱Learning ReactsJS
-- 🌱 Dabling on Microservices
+- 💞️ I'm working towrds being an Enterprise Software Architect and a seasoned Java Developer.
+- 🌱Learning ReactsJS and Flutter
+- 🌱 Dabling on Microservices, Service Mesh, Software Security and Architecture. 
 - 🌱 Reading on GraphQL
 - 🌱 Accounting and Banking Systems
 - 🌱 Java, SpringBoot and Microservices
